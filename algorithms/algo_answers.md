@@ -24,7 +24,7 @@
 # Exercise II
 
 ### A
-
+```
 function maxDiff(arr) {
     let low = arr[0];
     let high = arr[1] - low;
@@ -37,3 +37,4 @@ function maxDiff(arr) {
     }
     return high;
   }
+  ```
